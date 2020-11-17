@@ -746,3 +746,704 @@ Binding(COMMAND+-,
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-14 17:03:49.821
 !MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.AFYOZEzq => OK
+!SESSION 2020-11-17 10:11:10.988 -----------------------------------------------
+eclipse.buildId=4.18.0.I20201012-0320
+java.version=11.0.9
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=ja_JP
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/saori/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -keyring /Users/saori/.eclipse_keyring
+
+!ENTRY org.eclipse.ui 2 0 2020-11-17 10:11:17.823
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.bindings' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:17.823
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:17.823
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:17.823
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.next'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:17.823
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.next'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:17.823
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.previous'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:17.823
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.previous'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:17.823
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:17.823
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:17.824
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.source.quickMenu'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:17.824
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.source.quickMenu'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:17.824
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.add.import'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:17.824
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.organize.imports'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:17.824
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.refactor.quickMenu'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:17.824
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.refactor.quickMenu'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:17.824
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.rename.element'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:17.824
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.rename.element'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:17.824
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.move.element'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:17.824
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.move.element'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:17.824
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.modify.method.parameters'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:17.824
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.modify.method.parameters'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:17.824
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.inline'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:17.824
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.inline'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:17.824
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.extract.method'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:17.824
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.extract.method'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:17.824
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.extract.local.variable'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:17.824
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.extract.local.variable'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:17.824
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.open.hierarchy'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:17.824
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.TypeHierarchy'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:17.824
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.TypeHierarchy'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:17.824
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.PackageExplorer'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:17.824
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.PackageExplorer'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:17.824
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.SourceView'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:17.824
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.SourceView'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:17.824
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.JavadocView'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:17.824
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.JavadocView'
+
+!ENTRY org.eclipse.jface 2 0 2020-11-17 10:11:17.983
+!MESSAGE キーバインドの競合が発生しました。 通常のアクセラレーター操作を妨げる可能性があります。
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-11-17 10:11:17.983
+!MESSAGE COMMAND+CTRL+F の競合が発生しました:
+Binding(COMMAND+CTRL+F,
+	ParameterizedCommand(Command(com.xored.glance.commands.open,Glance を開く,
+		Glance 検索パネルを開く,
+		Category(com.xored.glance.ui.commands,Glance,Glance 検索コマンド,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@10d97b64,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.dialogAndWindow,,cocoa,system)
+Binding(COMMAND+CTRL+F,
+	ParameterizedCommand(Command(org.eclipse.ui.window.fullscreenmode,全画面の切り替え,
+		全画面と通常のウィンドウを切り替えます,
+		Category(org.eclipse.ui.category.window,ウィンドウ,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2352c21f,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.dialogAndWindow,,cocoa,system)
+
+!ENTRY org.eclipse.jface 2 0 2020-11-17 10:11:20.812
+!MESSAGE キーバインドの競合が発生しました。 通常のアクセラレーター操作を妨げる可能性があります。
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-11-17 10:11:20.813
+!MESSAGE COMMAND+SHIFT+T の競合が発生しました:
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,型を開く,
+		型を Java エディターで開きます,
+		Category(org.eclipse.ui.category.navigate,ナビゲート,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2e674698,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,ワークスペース内のシンボルにジャンプ,
+		,
+		Category(org.eclipse.lsp4e.category,言語サーバー,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@270a3cef,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-11-17 10:11:20.813
+!MESSAGE COMMAND+SHIFT+- の競合が発生しました:
+Binding(COMMAND+SHIFT+-,
+	ParameterizedCommand(Command(org.eclipse.ui.window.splitEditor,エディター分割の切り替え,
+		現在のアクティブなエディターを分割または結合します。,
+		Category(org.eclipse.ui.category.window,ウィンドウ,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6d224921,
+		[Parameter(Splitter.isHorizontal,向き,null,false)],,true),[org.eclipse.core.commands.Parameterization@6102fa90]),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,ja,,system)
+Binding(COMMAND+SHIFT+-,
+	ParameterizedCommand(Command(org.eclipse.ui.window.splitEditor,エディター分割の切り替え,
+		現在のアクティブなエディターを分割または結合します。,
+		Category(org.eclipse.ui.category.window,ウィンドウ,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6d224921,
+		[Parameter(Splitter.isHorizontal,向き,null,false)],,true),[org.eclipse.core.commands.Parameterization@6102fa90]),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,cocoa,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 10:11:25.896
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 10:11:25.897
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@6e879a78[org.springframework.tooling.boot.ls:1.23.0.202010230633(id=992)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 10:11:25.900
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 10:11:25.945
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.eclipse.ui 2 0 2020-11-17 10:11:28.084
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.bindings' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:28.084
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:28.084
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:28.084
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.next'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:28.084
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.next'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:28.084
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.previous'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:28.084
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.previous'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:28.084
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:28.084
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:28.084
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.source.quickMenu'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:28.084
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.source.quickMenu'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:28.084
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.add.import'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:28.084
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.organize.imports'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:28.084
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.refactor.quickMenu'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:28.084
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.refactor.quickMenu'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:28.084
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.rename.element'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:28.084
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.rename.element'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:28.084
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.move.element'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:28.084
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.move.element'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:28.084
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.modify.method.parameters'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:28.084
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.modify.method.parameters'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:28.084
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.inline'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:28.084
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.inline'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:28.084
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.extract.method'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:28.084
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.extract.method'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:28.084
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.extract.local.variable'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:28.084
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.extract.local.variable'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:28.084
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.open.hierarchy'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:28.084
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.TypeHierarchy'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:28.084
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.TypeHierarchy'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:28.084
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.PackageExplorer'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:28.084
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.PackageExplorer'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:28.084
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.SourceView'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:28.084
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.SourceView'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:28.084
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.JavadocView'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-11-17 10:11:28.084
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.JavadocView'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 10:11:29.090
+!MESSAGE Boot LS startup time from start to initialized: 3183ms
+
+!ENTRY org.eclipse.jface 2 0 2020-11-17 10:11:29.210
+!MESSAGE キーバインドの競合が発生しました。 通常のアクセラレーター操作を妨げる可能性があります。
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-11-17 10:11:29.210
+!MESSAGE COMMAND+- の競合が発生しました:
+Binding(COMMAND+-,
+	ParameterizedCommand(Command(org.eclipse.gef.zoom_out,ズームアウト,
+		ズームアウト,
+		Category(org.eclipse.gef.category.view,ビュー,ビュー,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@52889c68,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(COMMAND+-,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.text.zoomOut,ズームアウト,
+		テキストのズーム・アウト - テキスト・エディターのデフォルト・フォント・サイズを小さくします,
+		Category(org.eclipse.ui.category.textEditor,テキスト編集,テキスト編集コマンド,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5bbc4f38,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(COMMAND+-,
+	ParameterizedCommand(Command(junit.extensions.eclipse.quick.pde.command.PDEJUnitRunAction,JUnit Plug-in テスト,
+		PDE JUnitでテストを実行します．,
+		Category(junit.extensions.eclipse.quick.command.category,Quick JUnit,Quick JUnitアクション,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3887b71,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 10:11:29.327
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.PBHrkJNiisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 10:11:29.333
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 10:11:29.337
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 10:11:29.338
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 10:11:29.339
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 10:11:29.339
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.PBHrkJNi => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 10:11:29.348
+!MESSAGE classpath=18 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 10:11:29.348
+!MESSAGE buffering callback sts4.classpath.PBHrkJNi JavaWcp false 18
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 10:11:29.349
+!MESSAGE executing callback sts4.classpath.PBHrkJNi 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 10:11:29.377
+!MESSAGE executing callback sts4.classpath.PBHrkJNi SUCCESS [終了しました]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 10:30:34.691
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.PBHrkJNi
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 10:30:34.692
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.PBHrkJNi
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 10:30:34.693
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 10:30:34.693
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.PBHrkJNi => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 10:30:52.159
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 10:30:52.159
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@6e879a78[org.springframework.tooling.boot.ls:1.23.0.202010230633(id=992)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 10:30:52.160
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 10:30:52.873
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 10:30:52.873
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@6e879a78[org.springframework.tooling.boot.ls:1.23.0.202010230633(id=992)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 10:30:52.874
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 10:30:55.343
+!MESSAGE Boot LS startup time from start to initialized: 2468ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 10:30:55.435
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.LvdutScDisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 10:30:55.436
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 10:30:55.436
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 10:30:55.436
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 10:30:55.437
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 10:30:55.437
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.LvdutScD => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 10:30:55.438
+!MESSAGE classpath=18 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 10:30:55.438
+!MESSAGE buffering callback sts4.classpath.LvdutScD JavaWcp false 18
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 10:30:55.438
+!MESSAGE executing callback sts4.classpath.LvdutScD 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 10:30:55.476
+!MESSAGE executing callback sts4.classpath.LvdutScD SUCCESS [終了しました]
+
+!ENTRY org.eclipse.lsp4e 2 0 2020-11-17 10:32:03.177
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2022)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.eclipse.ui 2 2 2020-11-17 10:32:35.025
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 10:34:52.229
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.LvdutScD
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 10:34:52.229
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.LvdutScD
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 10:34:52.230
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 10:34:52.230
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.LvdutScD => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 10:35:10.190
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 10:35:10.191
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@6e879a78[org.springframework.tooling.boot.ls:1.23.0.202010230633(id=992)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 10:35:10.191
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 10:35:12.277
+!MESSAGE Boot LS startup time from start to initialized: 2085ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 10:35:12.398
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.RqCnodNIisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 10:35:12.398
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 10:35:12.399
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 10:35:12.399
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 10:35:12.399
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 10:35:12.399
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.RqCnodNI => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 10:35:12.400
+!MESSAGE classpath=18 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 10:35:12.400
+!MESSAGE buffering callback sts4.classpath.RqCnodNI JavaWcp false 18
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 10:35:12.401
+!MESSAGE executing callback sts4.classpath.RqCnodNI 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 10:35:12.441
+!MESSAGE executing callback sts4.classpath.RqCnodNI SUCCESS [終了しました]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 16:44:56.513
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.RqCnodNI
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 16:44:56.515
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.RqCnodNI
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 16:44:56.515
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 16:44:56.516
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.RqCnodNI => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 16:44:59.162
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 16:44:59.162
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@6e879a78[org.springframework.tooling.boot.ls:1.23.0.202010230633(id=992)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 16:44:59.163
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 16:45:01.487
+!MESSAGE Boot LS startup time from start to initialized: 2322ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 16:45:01.583
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.YvjRoDDRisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 16:45:01.584
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 16:45:01.584
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 16:45:01.585
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 16:45:01.585
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 16:45:01.585
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.YvjRoDDR => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 16:45:01.586
+!MESSAGE classpath=18 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 16:45:01.587
+!MESSAGE buffering callback sts4.classpath.YvjRoDDR JavaWcp false 18
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 16:45:01.587
+!MESSAGE executing callback sts4.classpath.YvjRoDDR 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 16:45:01.627
+!MESSAGE executing callback sts4.classpath.YvjRoDDR SUCCESS [終了しました]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 16:45:02.465
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.YvjRoDDR
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 16:45:02.466
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.YvjRoDDR
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 16:45:02.466
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 16:45:02.467
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.YvjRoDDR => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 16:45:21.738
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 16:45:21.738
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@6e879a78[org.springframework.tooling.boot.ls:1.23.0.202010230633(id=992)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 16:45:21.739
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 16:45:23.480
+!MESSAGE Boot LS startup time from start to initialized: 1740ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 16:45:23.559
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.AjvvTnKEisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 16:45:23.560
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 16:45:23.560
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 16:45:23.560
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 16:45:23.560
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 16:45:23.561
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.AjvvTnKE => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 16:45:23.561
+!MESSAGE classpath=18 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 16:45:23.562
+!MESSAGE buffering callback sts4.classpath.AjvvTnKE JavaWcp false 18
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 16:45:23.562
+!MESSAGE executing callback sts4.classpath.AjvvTnKE 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 16:45:23.588
+!MESSAGE executing callback sts4.classpath.AjvvTnKE SUCCESS [終了しました]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 16:51:15.441
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.AjvvTnKE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 16:51:15.442
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.AjvvTnKE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 16:51:15.442
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 16:51:15.443
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.AjvvTnKE => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 17:19:18.629
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 17:19:18.630
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@6e879a78[org.springframework.tooling.boot.ls:1.23.0.202010230633(id=992)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 17:19:18.630
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 17:19:20.696
+!MESSAGE Boot LS startup time from start to initialized: 2064ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 17:19:20.779
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.BxSVcyfhisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 17:19:20.779
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 17:19:20.779
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 17:19:20.780
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 17:19:20.780
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 17:19:20.780
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.BxSVcyfh => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 17:19:20.780
+!MESSAGE classpath=18 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 17:19:20.781
+!MESSAGE buffering callback sts4.classpath.BxSVcyfh JavaWcp false 18
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 17:19:20.781
+!MESSAGE executing callback sts4.classpath.BxSVcyfh 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 17:19:20.810
+!MESSAGE executing callback sts4.classpath.BxSVcyfh SUCCESS [終了しました]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 17:27:20.033
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.BxSVcyfh
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 17:27:20.033
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.BxSVcyfh
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 17:27:20.034
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 17:27:20.034
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.BxSVcyfh => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 17:27:45.173
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 17:27:45.174
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@6e879a78[org.springframework.tooling.boot.ls:1.23.0.202010230633(id=992)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 17:27:45.174
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 17:27:47.008
+!MESSAGE Boot LS startup time from start to initialized: 1833ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 17:27:47.081
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.qpSSkAFoisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 17:27:47.082
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 17:27:47.082
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 17:27:47.082
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 17:27:47.083
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 17:27:47.083
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.qpSSkAFo => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 17:27:47.084
+!MESSAGE classpath=18 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 17:27:47.084
+!MESSAGE buffering callback sts4.classpath.qpSSkAFo JavaWcp false 18
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 17:27:47.085
+!MESSAGE executing callback sts4.classpath.qpSSkAFo 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 17:27:47.110
+!MESSAGE executing callback sts4.classpath.qpSSkAFo SUCCESS [終了しました]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 17:31:47.685
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.qpSSkAFo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 17:31:47.686
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.qpSSkAFo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 17:31:47.686
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 17:31:47.686
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.qpSSkAFo => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 17:32:06.373
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 17:32:06.373
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@6e879a78[org.springframework.tooling.boot.ls:1.23.0.202010230633(id=992)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 17:32:06.374
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 17:32:08.171
+!MESSAGE Boot LS startup time from start to initialized: 1796ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 17:32:08.247
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.GYlzjmRoisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 17:32:08.247
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 17:32:08.248
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 17:32:08.248
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 17:32:08.248
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 17:32:08.249
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.GYlzjmRo => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 17:32:08.249
+!MESSAGE classpath=18 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 17:32:08.250
+!MESSAGE buffering callback sts4.classpath.GYlzjmRo JavaWcp false 18
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 17:32:08.250
+!MESSAGE executing callback sts4.classpath.GYlzjmRo 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 17:32:08.274
+!MESSAGE executing callback sts4.classpath.GYlzjmRo SUCCESS [終了しました]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 17:42:50.040
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.GYlzjmRo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 17:42:50.042
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.GYlzjmRo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 17:42:50.043
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-17 17:42:50.043
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.GYlzjmRo => OK
